@@ -5,7 +5,7 @@ lab tasks:
 url : https://www.kaggle.com/models
 
 2: visit overleap
-url : https://www.merriam-webster.com/dictionary/overleap
+url : https://www.overleaf.com
 
 3 : visit colab
 url : https://colab.google
